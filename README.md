@@ -1,36 +1,89 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# Mi Portafolio
 
-First, run the development server:
+Bienvenido a mi portafolio. Este proyecto está diseñado para mostrar mis habilidades y proyectos en el desarrollo web y de software. A continuación, encontrarás una descripción de las tecnologías que utilicé para construir este portafolio.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Descripción
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Este portafolio es una representación de mis habilidades y experiencias en el desarrollo de aplicaciones web. Incluye una variedad de proyectos que he realizado a lo largo de mi carrera universitaria y laboral. Cada sección está diseñada para destacar mis competencias técnicas y mi capacidad para resolver problemas complejos a través de soluciones innovadoras.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Tecnologías Utilizadas
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Frontend
+- **HTML5**: Para estructurar el contenido de las páginas web.
+- **CSS3**: Para estilizar y diseñar la presentación de los elementos HTML.
+- **JavaScript**: Para añadir interactividad y dinamismo a las páginas web.
+- **React**: Biblioteca de JavaScript para construir interfaces de usuario.
+- **Next.js**: Framework de React para el desarrollo de aplicaciones web estáticas y dinámicas.
+- **Tailwind CSS**: Framework de CSS basado en utilidades para construir diseños personalizados de manera rápida y eficiente.
+- **Vite**: Herramienta de desarrollo rápida para aplicaciones web modernas.
 
-## Learn More
+### Backend
+- **Node.js**: Entorno de ejecución de JavaScript del lado del servidor.
+- **Express**: Framework para Node.js utilizado para construir APIs y servidores web.
+- **Supabase**: Plataforma de backend como servicio que proporciona una base de datos, autenticación y almacenamiento en tiempo real.
+- **PHP**: Lenguaje de programación para el desarrollo de aplicaciones web.
+- **Laravel**: Framework de PHP para el desarrollo de aplicaciones web complejas y escalables.
 
-To learn more about Next.js, take a look at the following resources:
+### Bases de Datos
+- **MySQL**: Sistema de gestión de bases de datos relacional.
+- **MongoDB**: Base de datos NoSQL orientada a documentos.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Control de Versiones
+- **Git**: Sistema de control de versiones distribuido.
+- **GitHub**: Plataforma de hospedaje para proyectos Git.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Servicios en la Nube
+- **Amazon Web Services (AWS)**: Plataforma de servicios en la nube que ofrece una amplia gama de servicios, incluyendo computación, almacenamiento y bases de datos.
 
-## Deploy on Vercel
+## Instalación y Uso
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Para ejecutar este proyecto localmente, sigue los siguientes pasos:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+1. **Clona el repositorio:**
+   ```bash
+   git clone https://github.com/erickbarrera/mi-portafolio.git
+   ```
+
+2. **Instala las dependencias:**
+   ```bash
+   cd mi-portafolio
+   npm install
+   ```
+
+3. **Ejecuta el proyecto:**
+   ```bash
+   npm run dev
+   ```
+
+4. **Abre tu navegador y navega a:**
+   ```
+   http://localhost:3000
+   ```
+
+## Contribuciones
+
+Las contribuciones son bienvenidas. Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos:
+
+1. **Haz un fork del repositorio.**
+2. **Crea una nueva rama:**
+   ```bash
+   git checkout -b mi-nueva-funcionalidad
+   ```
+3. **Realiza tus cambios y haz un commit:**
+   ```bash
+   git commit -m "Añadir nueva funcionalidad"
+   ```
+4. **Empuja tus cambios a la rama:**
+   ```bash
+   git push origin mi-nueva-funcionalidad
+   ```
+5. **Abre un pull request.**
+
+## Contacto
+
+Para cualquier consulta o información adicional, puedes contactarme a través de [LinkedIn](https://www.linkedin.com/in/erickbarrera) o [Twitter](https://twitter.com/erickbarrera).
+
+---
+
+¡Gracias por visitar mi portafolio!
