@@ -17,7 +17,6 @@ const ServicesPage = () => {
                     </h1>
                     <p className="mb-3 text-xl text-gray-300">
                     A lo largo de mi carrera universitaria y laboral, he adquirido conocimientos sólidos en una variedad de tecnologías clave en el desarrollo web y de software.                    </p>
-                    <button className="px-3 py-2 rounded-lg bg-secondary hover:bg-secondary/65">Contacta conmigo</button>
                 </div>
 
                 {/* SLIDER */}

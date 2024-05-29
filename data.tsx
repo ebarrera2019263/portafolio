@@ -122,14 +122,14 @@ export const dataPortfolio = [
         id: 1,
         title: "tomadora de pedidos",
         image: "/pp.jpeg",
-        urlGithub: "#!",
+        urlGithub: "https://github.com/ebarrera2019263/API-OTS.git",
         urlDemo: "#!",
     },
     {
         id: 2,
         title: "Calculadora Web ",
-        image: "/react.jpg",
-        urlGithub: "#!",
+        image: "/callll.png",
+        urlGithub: "https://github.com/ebarrera2019263/lab8.git",
         urlDemo: "#!",
     },
     {
@@ -137,14 +137,14 @@ export const dataPortfolio = [
         title: "torneo deportivo",
         image: "/torno.png",
         urlGithub: "https://github.com/droldan2019310/torneobackUVG.git",
-        urlDemo: "#!",
+        urlDemo: "https://tournament-manager-grupo-1.firebaseapp.com/",
     },
     {
         id: 4,
         title: "AgendaWebPlus",
         image: "/web.png",
         urlGithub: "#!",
-        urlDemo: "#!",
+        urlDemo: "https://agendawebplus-d635d.web.app/",
     },
    
     
