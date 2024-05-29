@@ -1,8 +1,12 @@
 import type { Metadata } from "next";
 import { Inter, Urbanist } from "next/font/google";
 import "./globals.css";
+import Navbar from "@/components/navbar";
+import Header from "@/components/header";
+import Introduction from "@/components/introduction";
 
 const urbanist = Urbanist({ subsets: ["latin"] });
+
 
 export const metadata: Metadata = {
   title: "Portafolio Aletzz Barr 🔥🔥🔥",
@@ -16,7 +20,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={urbanist.className}>{children}</body>
+      <body className={urbanist.className}>
+        <Navbar />
+        <Header />
+        {children}
+      </body>
     </html>
   );
 }

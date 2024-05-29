@@ -4,7 +4,7 @@
 
 html, body{
   color:#fff;
-  background: #022955;  
+  background: hsla(196, 100%, 21%, 0.859);  
 
 }
 
@@ -17,3 +17,9 @@ html, body{
     text-wrap: balance;
   }
 }
+
+
+.custom-justify {
+  text-align: justify;
+}
+
